@@ -1,4 +1,4 @@
-[UML diagrams](https://miro.medium.com/max/2400/0*WZKVkVH4fwJV5vfX.png)
+![UML diagrams](https://miro.medium.com/max/2400/0*WZKVkVH4fwJV5vfX.png)
 
 # UML Diagram
 ## UML Diagram types
